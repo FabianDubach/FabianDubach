@@ -9,11 +9,6 @@ I'm currently studying **Artificial Intelligence and Machine Learning**. My jour
 - Some experience with **Java** ☕ and **C++** 💻
 - Interest in **Artificial Intelligence** and **Robotics**
 
-### 🏋️‍♂️ Hobbies & Interests
-- **Gym** 🏋️
-- **Gaming** 🎮
-- **3D Printing** 🖨️
-
 ### 🚀 Future Goals
 I hope to find a way to combine my background in **Design Engineering** with **AI** to create something innovative! 🤖✨
 
